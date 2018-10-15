@@ -1,6 +1,6 @@
 php-simple-html-dom-parser
 ==========================
-
+https://www.cnblogs.com/jbexploit/p/4592527.html
 Version 1.5.2
 
 Adaptation for Composer and PSR-0 of:
